@@ -108,6 +108,3 @@ ML_Assignment_2/
 
 The saved models were recreated using the same dataset loader, train-test split, random state, preprocessing pipelines and model parameters documented in the notebook. The regenerated metric values were checked against the supplied `model_comparison.csv`.
 
-## 9. BITS Virtual Lab execution proof
-
-Insert the required screenshot of the notebook execution on BITS Virtual Lab in the final assignment PDF.
