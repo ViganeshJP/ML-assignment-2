@@ -27,7 +27,7 @@ The same training and test split was used for all five classifiers. StandardScal
 ## 3. GitHub Repository Link
 
 **Add your repository URL here after creating and uploading the project:**  
-`https://github.com/<your-github-username>/ML-Assignment-2`
+`https://github.com/ViganeshJP/ML-Assignment-2`
 
 ## 4. Models used and evaluation metrics
 
