@@ -90,19 +90,11 @@ ML_Assignment_2/
 
 ## 7. How to run locally
 
-1. Install the dependencies:
+1. Open the Streamlit application:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+   https://ml-assignment-2-kffdrare7apnxubhmr7erc.streamlit.app/
 
-2. Start the Streamlit application from the project root:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-3. Upload `test_data.csv`, select a model and review the displayed metrics.
+2. Upload `test_data.csv`, select a model and review the displayed metrics.
 
 ## 8. Reproducibility
 
